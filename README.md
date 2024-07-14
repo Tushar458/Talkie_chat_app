@@ -28,8 +28,4 @@ Convert written text into spoken words with our built-in Text-to-Speech feature.
 Transform spoken words into text with the Speech-to-Text functionality.
 
 
-**Camera Functionality and Audio Functionality:**
-Enhance communication by visually conveying information.
-
-
 
