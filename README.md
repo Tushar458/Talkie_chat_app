@@ -1,6 +1,6 @@
 
 # Talkie_chat_app
-=======
+
 Welcome to our Chat AI application, designed for seamless communication with AI bots. This application's primary purpose is to facilitate engaging conversations with AI entities using the OpenAI API with the functionality of Text to Speech and Speech to Text with Camera and audio functionality .
 
 
